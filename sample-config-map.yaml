@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: testgitops
 data:
-  index.html: Hello GitOps
+  index.html: Hello GitOps !!
