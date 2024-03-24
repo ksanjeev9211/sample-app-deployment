@@ -1,6 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
+namespace: gitops
 metadata:
-  name: gitops-test
+  name: are you available
 data:
   index.html: Hello GitOps !!
